@@ -9,8 +9,8 @@ header_use_video: false
 # header_logo: "images/code_icon.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "Test Node"
-header_subheadline: "UK Node"
+header_headline: "UK km-scale hackathon 2026"
+header_subheadline: "Met Office, Exeter"
 
 set draft: false
 # Add a 'Go back to top' item to the navigation menu

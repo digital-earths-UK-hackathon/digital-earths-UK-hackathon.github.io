@@ -4,6 +4,10 @@ weight: 5
 header_menu_title: "Programme"
 header_menu: true
 ---
+
+Programme is still to be decided.
+
+<!---
 The Oxford Node of the Digital Earths Global Hackathon will run from **Monday morning, May 12, to Friday lunchtime, May 16, 2025**.
 
 Catered lunch will be served each day in Oxford, at our venue.
@@ -92,3 +96,4 @@ Catered lunch will be served each day in Oxford, at our venue.
 ---
 
 *updated May, 9 2025*
+-->

@@ -3,7 +3,7 @@ title: "Welcome"
 weight: 1
 ---
 
-This UK event, taking place from **May, 2026**, will gather participants to collaborate on hacking, data analysis, visualization, and learning in a dynamic, hands-on environment. 
+This UK event, taking place in **May, 2026**, will gather participants to collaborate on hacking, data analysis, visualization, and learning in a dynamic, hands-on environment. 
 
 <!---
 The event is partly sponsored by the National Centre for Atmospheric Science (NCAS) and lead organiser for the UK node of the hackathon is Pier Luigi Vidale from NCAS Reading.

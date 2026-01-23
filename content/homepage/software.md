@@ -1,7 +1,7 @@
 ---
-title: "Software stack"
+title: "Software Stack"
 weight: 9
-header_menu_title: "Software stack"
+header_menu_title: "Software Stack"
 header_menu: true
 ---
 

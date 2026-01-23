@@ -1,5 +1,5 @@
 ---
-title: "UK Node Science Plan"
+title: "Science Plan"
 weight: 8
 header_menu_title: "Science Plan"
 header_menu: true

@@ -9,7 +9,7 @@ disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 theme = "hugo-scroll"
 
 # The browser tab name
-title = "hk26"
+title = "UK km-scale hackathon 26"
 
 # In order to add version information in the page's footer set to true.
 # enableGitInfo = true
@@ -38,7 +38,7 @@ enableEmoji = true
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "hk26"
+    title = "UK km-scale hackathon 26"
 
     # The "description" of your website. This is used in the meta data of your generated html.
     description = "km-scale hackathon"

@@ -5,7 +5,7 @@ header_menu_title: "Software Stack"
 header_menu: true
 ---
 
-Here are some steps to get you started for the hackathon. These should be done before the Hackathon begins.
+Here are some steps to get you started for the hackathon. These should be done before the hackathon begins.
 
 #### 1. Hackathon python environment 
 

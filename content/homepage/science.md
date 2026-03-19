@@ -4,7 +4,10 @@ weight: 8
 header_menu_title: "Science Plan"
 header_menu: true
 ---
+A K-Scale model hierarchy, encompassing a set of year-long global and regional domain simulations across a range of grid resolutions and science options. This is designed to enable analysis of a range of research questions.
 
+
+<!---
 The science topics for all nodes fall under two umbrella themes: 1) organised travelling convection and 2) circulation, which are closely related. As part of the investigations, there are working groups on tracking (of TCs, MCSs, MJO); characteristics of precipitation, e.g. large scale versus convective, spectra, diurnal cycle; atmospheric blocking; air-sea and land-atmosphere coupling, etc.
 The UK plans to explore a hierarchy of simulations from the Met Office K-scale project, from global to regional, to investigate:
 
@@ -28,4 +31,4 @@ Science Questions:
 Approach:
 A number of data sets will be made available on the JASMIN object store, in HEALPix format, and accessible remotely. Notebooks to perform the analyses above, at least at an initial stage, will be provided to all, including catalogues for data discovery. Observational products will also be provided, e.g. ERA5, IMERG, CERES. Many of the more complex data sets, e.g. TC tracks, MCS tracks, will be provided before the event.
 Multiple working groups of 5 or more individuals  will be formed around the topics above, and will work together at the venue, as well as identify equivalent groups at other nodes to exchange information with on a daily basis.
-
+-->

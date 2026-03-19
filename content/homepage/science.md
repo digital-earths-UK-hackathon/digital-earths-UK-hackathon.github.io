@@ -8,6 +8,7 @@ A K-Scale model hierarchy, encompassing a set of year-long global and regional d
 For this 2026 UK event, the Global to Regional km-scale hackathon, will tackle a range of questions in the context of developing evidence to address two over-arching hypotheses:
 
 A: Better representing mesoscale phenomena, such as details of local-scale convection, feeds back on the large-scale atmospheric circulation.
+
 B: Development of high quality, high-resolution global simulations generates new information that may be of value for enhancing development of machine learning approaches to weather and climate prediction.
 
 A number of data sets will be made available on the JASMIN object store, in HEALPix format, and accessible remotely. Notebooks to perform the analyses above, at least at an initial stage, will be provided to all, including catalogues for data discovery. Observational products will also be provided, e.g. ERA5, IMERG, CERES. Many of the more complex data sets, e.g. TC tracks, MCS tracks, will be provided before the event. Multiple working groups will be formed around topics linked to addressing the hypotheses above, and will work together at the venue.
@@ -20,6 +21,7 @@ Potential working group themes might include:
 -	Land surface interactions 
 -	Clouds and radiation
 -	Further topics of interest to be added ahead of and during the hackathon
+
 Across each of these groups, it may be useful to consider:
 1)	How do the characteristics of the phenomena of interest differ between global and tropics-wide domain simulations with explicit representation of convection [i.e. using the RAL3.3 science configuration] relative to a benchmark high-resolution weather/climate configuration with parametrized convection [GAL9]?
 2)	What impact does use of a new convection parametrization scheme (CoMorphA, adapted to higher resolution) have on results?

@@ -7,6 +7,8 @@ header_menu: true
 
 The 2026 UK K-Scale hackathon will run from lunchtime on Monday May 18 to lunchtime on Friday 22 May. Lunches will be provided at the Met Office Collaboration building each day. Further details of the programme for the week will follow.
 
+[Timetable 2026 hackathon](./images/hackathon26_timetable.png)
+
 <!---
 The Oxford Node of the Digital Earths Global Hackathon will run from **Monday morning, May 12, to Friday lunchtime, May 16, 2025**.
 
